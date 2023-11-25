@@ -1,3 +1,7 @@
 !*.cpp
 !*.md
-/.hypothesis
+*.exe
+*.out
+*.o
+.hypothesis
+.vscode
